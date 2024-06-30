@@ -1,0 +1,1 @@
+# Wordpress theme developed from scratch
